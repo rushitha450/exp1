@@ -1,0 +1,17 @@
+C:\Users\ELDHOS AJI\source\repos\SRoom\SRoom\bin\Debug\db.mdf
+C:\Users\ELDHOS AJI\source\repos\SRoom\SRoom\bin\Debug\db_log.ldf
+C:\Users\ELDHOS AJI\source\repos\SRoom\SRoom\bin\Debug\SRoom.exe.config
+C:\Users\ELDHOS AJI\source\repos\SRoom\SRoom\bin\Debug\SRoom.exe
+C:\Users\ELDHOS AJI\source\repos\SRoom\SRoom\bin\Debug\SRoom.pdb
+C:\Users\ELDHOS AJI\source\repos\SRoom\SRoom\obj\Debug\SRoom.adminssion.resources
+C:\Users\ELDHOS AJI\source\repos\SRoom\SRoom\obj\Debug\SRoom.checkout.resources
+C:\Users\ELDHOS AJI\source\repos\SRoom\SRoom\obj\Debug\SRoom.Form1.resources
+C:\Users\ELDHOS AJI\source\repos\SRoom\SRoom\obj\Debug\SRoom.Form2.resources
+C:\Users\ELDHOS AJI\source\repos\SRoom\SRoom\obj\Debug\SRoom.Form3.resources
+C:\Users\ELDHOS AJI\source\repos\SRoom\SRoom\obj\Debug\SRoom.inser.resources
+C:\Users\ELDHOS AJI\source\repos\SRoom\SRoom\obj\Debug\SRoom.Properties.Resources.resources
+C:\Users\ELDHOS AJI\source\repos\SRoom\SRoom\obj\Debug\SRoom.rent.resources
+C:\Users\ELDHOS AJI\source\repos\SRoom\SRoom\obj\Debug\PGM.csproj.GenerateResource.cache
+C:\Users\ELDHOS AJI\source\repos\SRoom\SRoom\obj\Debug\PGM.csproj.CoreCompileInputs.cache
+C:\Users\ELDHOS AJI\source\repos\SRoom\SRoom\obj\Debug\SRoom.exe
+C:\Users\ELDHOS AJI\source\repos\SRoom\SRoom\obj\Debug\SRoom.pdb
